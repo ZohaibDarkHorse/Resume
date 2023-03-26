@@ -1,0 +1,19 @@
+h1{
+    color:#66BFBF
+}
+h3{
+    color:#66BFBF
+}
+
+.profile{
+    /* background-color: white; */
+    height: 200px;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+.educationRow:hover{
+    color: #AEC2B6;
+}
